@@ -3,7 +3,7 @@ name = "SigmaOS-laptop-platform-profiles"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "laptop-platform-profiles component"
+description = "Laptop Platform Profiles"
 upstream = []
 
 [contract]
